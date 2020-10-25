@@ -40,6 +40,26 @@ Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin an
 **Tools & Technologies:**  
 
 <code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/behat.png"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/cypress.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/mocha.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/postman.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/swagger.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/insomnia.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/visualstudiocode.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/asana.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/bootstrap.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/wordpress.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/woo.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/git.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/github.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/gitlab.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/linux.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/mysql.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/npm.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/slack.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/stackoverflow.svg"></code>
+<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/twilio.svg"></code>
+
 
 
 #### Projects
