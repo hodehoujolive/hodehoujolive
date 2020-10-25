@@ -1,4 +1,10 @@
-<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Jolivé & I ❤️ code.</h1>
+<div align="center">
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Jolivé & I ❤️ code.👨‍🎓
+
+</div>
+
 <a href="https://twitter.com/coder_jolive">
   <img align="left" alt="Jolivé Hodehou | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
