@@ -18,7 +18,7 @@ Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Benin �
 - 🌱 I’m currently learning Robot Framework and Java; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@coder_jolive](https://twitter.com/coder_jolive);
-- 📝[Resume]()
+- 📝[Resume](https://github.com/hodehoujolive/hodehoujolive/blob/main/resume.pdf)
 
 <br />
 
