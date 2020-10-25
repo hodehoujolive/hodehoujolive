@@ -17,6 +17,7 @@
 <br />
 Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin and i wanna be an automation star 🌟. I am 20 years old and I am available for work 🙍🏽‍♂️. Beside's programming, I enjoy eating food and music.
 
+<br />
   
 **Talking about Personal Stuffs:**
 
@@ -25,6 +26,13 @@ Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin an
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@coder_jolive](https://twitter.com/coder_jolive);
 - 📝[Resume]()
+
+**Talking about Personal Stuffs:**
+
+- 🤖 Automated Software Testing;
+- 📕 Write API Documentation; 
+- 🎉 Open Source Project Manager;
+- 👨🏾‍💻 Frontend Development;
 
 #### Languages
 
