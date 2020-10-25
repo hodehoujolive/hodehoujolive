@@ -22,14 +22,14 @@ Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin an
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Robot Framework and Java; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📫 How to reach me: [@coder_jolive](https://twitter.com/coder_jolive);
+- 📝[Resume]()
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"></code>
+<code><img height="20" color="#F7DF1E" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cypress/cypress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
