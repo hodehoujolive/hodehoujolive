@@ -52,7 +52,7 @@ Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin an
 
 #### Projects
 
-[![Functional test automation solution](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/hodehoujolive/Automatisation-des-tests)
+[![Functional test automation solution](https://img.shields.io/badge/-🧬%20Automation%20Test-fff?)](https://github.com/hodehoujolive/Automatisation-des-tests)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
