@@ -15,9 +15,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=hodehoujolive.hodehoujolive)
 
 <br />
-Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin and i wanna be an automation star 🌟. I am 20 years old and I am available for work 🙍🏽‍♂️. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin and i wanna be an automation star 🌟. I am 20 years old and I am available for work 🙍🏽‍♂️. Beside's programming, I enjoy eating food and music.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -53,13 +52,7 @@ Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin an
 
 #### Projects
 
-[![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-fff?)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📝%20Summarizer-fff?)](https://github.com/adamalston/Summarizer)
-[![Overwatch](https://img.shields.io/badge/-🔬%20Overwatch-fff?)](https://github.com/adamalston/overwatch)
-[![KubeSat](https://img.shields.io/badge/-🛰%20KubeSat-fff?)](https://github.com/adamalston/kubesat)
-[![Voice Poker](https://img.shields.io/badge/-🔊%20Voice%20Poker-fff?)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-fff?)](https://github.com/adamalston/PokemonGo-Map)
+[![Functional test automation solution](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/hodehoujolive/Automatisation-des-tests)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
