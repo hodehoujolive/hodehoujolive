@@ -15,8 +15,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=hodehoujolive.hodehoujolive)
 
 <br />
-Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin and i wanna be an automation star 🌟. I am 20 years old and I am available for work 🙍🏽‍♂️. Beside's programming, I enjoy eating food and music.
+Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Benin 🇧🇯 and i wanna be an automation star 🌟. I am 20 years old and I am available for work 🙍🏽‍♂️. Beside's programming, I enjoy eating food and music.
 
+<br />
 <br />
   
 **Talking about Personal Stuffs:**
@@ -27,7 +28,9 @@ Hi, I'm Jolivé Hodehou, a Quality Assurance Engineer Junior 🚀 from Bénin an
 - 📫 How to reach me: [@coder_jolive](https://twitter.com/coder_jolive);
 - 📝[Resume]()
 
-**Talking about Personal Stuffs:**
+<br />
+
+**Technical Skills:**
 
 - 🤖 Automated Software Testing;
 - 📕 Write API Documentation; 
