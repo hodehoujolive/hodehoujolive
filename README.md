@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1>Hey there. I'm Jolivé & I ❤️ code.</h1>
 <a href="https://twitter.com/coder_jolive">
   <img align="left" alt="Jolivé Hodehou | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
