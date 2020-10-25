@@ -1,4 +1,4 @@
-<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> . I'm Jolivé & I ❤️ code.</h1>
+<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Jolivé & I ❤️ code.</h1>
 <a href="https://twitter.com/coder_jolive">
   <img align="left" alt="Jolivé Hodehou | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,3 +15,4 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=hodehoujolive.hodehoujolive)
 
 <br />
+Hi, I'm [Jolivé Hodehou](https://hashnode.com/@jolive_hodehou), a Quality Assurance Engineer Junior 🚀 from Bénin and i wanna be an automation star 🌟. I am 20 years old and I am available for work 🙍🏽‍♂️. Beside's programming, I enjoy eating food and traveling.
