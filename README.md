@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jolivé%20Hodehou-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joliv%C3%A9-hodehou-505120183/)](https://www.linkedin.com/in/joliv%C3%A9-hodehou-505120183/) [![Twitter Badge](http://img.shields.io/badge/-@coder_jolive-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/coder_jolive)](https://twitter.com/coder_jolive) [![GitHub followers](https://img.shields.io/github/followers/hodehoujolive?label=Follow&style=social)](https://github.com/hodehoujolive/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-jolivehodehou7@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jolivehodehou7@gmail.com)](mailto:jolivehodehou7@gmail.com) ![](https://visitor-badge.glitch.me/badge?page_id=hodehoujolive.hodehoujolive) 
 
 <br />
-Hi, I am a quality assurance tester 🚀 in benin 🇧🇯 , with a extensive knowledge in developing and testing across multiple browsers, platforms, DOM implementations, Test automation , API testing and documentation etc. Can work on multiple projects simultaneously. I wanna be an automation star 🌟.  
+Hi, I am a quality assurance engineer 🚀 in benin 🇧🇯 , with a extensive knowledge in developing and testing across multiple browsers, platforms, DOM implementations, Test automation , API testing and documentation etc. Can work on multiple projects simultaneously. I wanna be an automation star 🌟.  
 
 <br />
 <br />
