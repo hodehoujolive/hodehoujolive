@@ -15,9 +15,9 @@ Hi, I am a Software Tester effective at working in fast-paced testing environmen
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Robot Framework and Java; 
+- 🌱 I’m currently learning Appium and Jenkins ; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@jolive__](https://twitter.com/jolive__);
+- 📫 How to reach me: [@joveHod](https://twitter.com/joveHod);
 - 📝[Resume](https://www.linkedin.com/in/jolivehodehou/)
 
 <br />
