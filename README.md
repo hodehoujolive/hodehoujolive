@@ -18,7 +18,7 @@ Hi, I am a Software Tester effective at working in fast-paced testing environmen
 - 🌱 I’m currently learning Appium and Jenkins ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@joveHod](https://twitter.com/joveHod);
-- 📝[Resume](https://www.linkedin.com/in/jolivehodehou/)
+- 📝[Resume](https://www.linkedin.com/in/hodehoujolive/)
 
 <br />
 
