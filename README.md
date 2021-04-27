@@ -39,32 +39,6 @@ Hi, I am a junior quality assurance tester 🚀 in benin 🇧🇯 , with a exten
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-
-**Tools & Technologies:**  
-
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/behat.png"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/cypress.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/mocha.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/postman.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/swagger.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/insomnia.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/visualstudiocode.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/asana.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/bootstrap.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/wordpress.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/woo.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/git.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/github.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/gitlab.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/linux.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/mysql.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/npm.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/slack.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/stackoverflow.svg"></code>
-<code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/twilio.svg"></code>
-
-
-
 #### Projects
 
 [![Functional test automation solution](https://img.shields.io/badge/-🧬%20Automation%20Test-fff?)](https://github.com/hodehoujolive/Automatisation-des-tests)
