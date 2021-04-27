@@ -17,7 +17,7 @@ Hi, I am a junior quality assurance tester 🚀 in benin 🇧🇯 , with a exten
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Robot Framework and Java; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@coder_jolive](https://twitter.com/coder_jolive);
+- 📫 How to reach me: [@coder_jolive](https://twitter.com/joveHod);
 - 📝[Resume](https://github.com/hodehoujolive/hodehoujolive/blob/main/resume.pdf)
 
 <br />
@@ -41,7 +41,7 @@ Hi, I am a junior quality assurance tester 🚀 in benin 🇧🇯 , with a exten
 
 #### Projects
 
-[![Functional test automation solution](https://img.shields.io/badge/-🧬%20Automation%20Test-fff?)](https://github.com/hodehoujolive/Automatisation-des-tests)
+[![Functional test automation solution](https://img.shields.io/badge/-🧬%20Automation%20Test-fff?)](https://github.com/hodehoujolive/Behatium)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
