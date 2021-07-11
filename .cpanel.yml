@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=hodehoujolive/hodehoujolive
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp main.css $DEPLOYPATH
