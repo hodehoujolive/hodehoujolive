@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a QA Engineer and Technical Writer. <img src="https://gpvc.arturio.dev/jideguru" /></p>
+<p align='center'>I am a QA Engineer and Technical Writer. <img src="https://gpvc.arturio.dev/hodehoujolive" /></p>
 
 
 <p align='center'>
