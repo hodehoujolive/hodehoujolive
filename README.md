@@ -16,15 +16,6 @@
 <a href="https://medium.com/@jolivehodehou">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-
-  <!--
-<a href="http://wa.me/22999094890?text=Hello Jolivé">
-  <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
--->
-
-</a>&nbsp;&nbsp;
-
 <a href="https://jolivehodehou.bj/">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </p>
